@@ -1,0 +1,7 @@
+.header__logo {
+    filter: opacity(50%);
+}
+
+.header__logo:hover {
+    filter: opacity(100%);
+}

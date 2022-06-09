@@ -1,0 +1,6 @@
+.fatures__card-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 510px;
+    height: 250px;
+}

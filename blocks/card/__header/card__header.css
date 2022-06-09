@@ -1,0 +1,10 @@
+.card__header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #939CF5;
+    font-size: 21px;
+    font-weight: 900;
+    align-items: center;
+    margin-bottom: 40px;
+}

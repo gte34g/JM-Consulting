@@ -1,0 +1,9 @@
+.fatures__card__image {
+    position: relative;
+    max-width: 50px;
+    padding: 5px;
+    border-radius: 100%;
+    background-color: #4C79D1;
+    z-index: 1;
+    margin: 0;
+}

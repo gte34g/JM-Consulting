@@ -1,0 +1,6 @@
+.clients__container {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0;
+    max-width: 74rem;
+}

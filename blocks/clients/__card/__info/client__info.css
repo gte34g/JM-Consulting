@@ -1,0 +1,8 @@
+.client__info {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+}
+

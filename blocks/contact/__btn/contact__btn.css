@@ -1,0 +1,8 @@
+.contact__btn {
+    color: #F5E093;
+    background: none;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

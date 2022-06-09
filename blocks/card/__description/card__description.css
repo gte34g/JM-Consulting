@@ -1,0 +1,7 @@
+.card__description {
+    max-width: 450px;
+    max-height: auto;
+    padding: 28px;
+    background-color: #777FC8;
+    margin-bottom: 25px;
+}
